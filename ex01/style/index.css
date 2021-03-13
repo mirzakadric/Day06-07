@@ -1,0 +1,24 @@
+h3 {
+    color: lightskyblue;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    position: inherit;
+}
+
+.innerBox {
+    padding: 50px 50px 0px 50px;
+    width: fit-content;
+    height: fit-content;
+}
